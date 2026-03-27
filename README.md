@@ -10,7 +10,7 @@
 
 ## Requirements
 - FreeBSD
-- `gcc` — falls nicht vorhanden: `pkg install gcc`
+- `gcc`  (`pkg install gcc`)
 
 ## Build & Run
 ```sh
